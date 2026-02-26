@@ -1,20 +1,38 @@
-# Weather Detection Web Application
+# 🌦️ Weather Detection Web Application
 
-A full-stack application built with "React (Vite)" and "Flask (Python)" that provides "real-time weather updates" using a third-party API. The project features a responsive UI and modular backend design, with optional IoT monitoring integration.
-
----
-
-## Features
-- Real-time weather data (temperature, humidity, wind speed, pressure)
-- Responsive React (Vite) frontend with Hooks
-- Flask backend for API handling
-- Modular IoT monitoring support
+A "full-stack weather application" built with "React (Vite)" and "Flask (Python)".  
+It integrates a third-party weather API to deliver "real-time weather data" such as temperature, humidity, wind speed, and pressure.  
+Designed with a responsive UI and modular backend, the project demonstrates practical application of "IoT and Cyber Security coursework".
 
 ---
 
-## Tech Stack
+## 📂 Project Structure
+- **client/** → React (Vite) frontend with interactive UI and state management using React Hooks  
+- **server/** → Flask backend handling API requests and data processing  
+- **iotmonitoring/** → IoT integration module for monitoring and extending functionality  
+
+---
+
+## 🚀 Features
+- Real-time weather updates from external APIs  
+- Responsive and dynamic UI with React Hooks  
+- Flask backend for REST API handling  
+- Modular design supporting IoT monitoring  
+- Clear separation of client and server codebases  
+
+---
+
+## 🛠️ Tech Stack
 - **Frontend:** React (Vite), CSS, JavaScript  
 - **Backend:** Flask (Python)  
-- **API:** Third-party weather API (e.g., OpenWeatherMap)
+- **Languages:** Python, JavaScript, CSS  
+- **API:** Third-party weather API (e.g., OpenWeatherMap)  
 
+---
 
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/shivkumar03/Weather-Detection-Web-Application.git
+cd Weather-Detection-Web-Application
