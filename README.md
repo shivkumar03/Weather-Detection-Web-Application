@@ -1,8 +1,8 @@
 # 🌦️ Weather Detection Web Application
 
-A "full-stack weather application" built with "React (Vite)" and "Flask (Python)".  
+A **full-stack weather application** built with **React (Vite)** and **Flask (Python)**.  
 It integrates a third-party weather API to deliver "real-time weather data" such as temperature, humidity, wind speed, and pressure.  
-Designed with a responsive UI and modular backend, the project demonstrates practical application of "IoT and Cyber Security coursework".
+Designed with a responsive UI and modular backend, the project demonstrates practical application of **IoT and Cyber Security coursework**.
 
 ---
 
